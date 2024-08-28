@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML 
 - 🌱 I’m currently learning android application development
 - 💞️ I’m looking to collaborate on app dev projects 
-- 📫 Reach me on dhanushs.167@gmail.com
+- 📫 Reach me on dhanu.sjs.167@gmail.com
 - 😄 Pronouns: He/him
   
 <!---
